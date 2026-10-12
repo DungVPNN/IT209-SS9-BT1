@@ -8,13 +8,7 @@
 
 ## 2. Môi trường thực hành
 
-| Thành phần | Thông tin |
-|---|---|
-| Hệ điều hành máy chủ | Windows 11 |
-| Môi trường Linux | Ubuntu trên WSL 2 |
-| Tài khoản Linux | `devops-tung` |
-| Docker | Docker Desktop, bật WSL Integration |
-| Terminal | Ubuntu WSL |
+
 
 ## 3. Các bước thực hiện và kết quả
 
